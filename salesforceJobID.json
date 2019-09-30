@@ -1,0 +1,18 @@
+{
+	"SLKTHN_PersonalQueue":"51d9a550-916d-40d7-9d4f-48c8dd1ee192",
+	"SLKTHN_Personal_Urgent":"41738edb-28aa-43f9-9bfc-f44c49b5df24",
+	"SLKTHN_Personal_SubComponent":"83d6a384-76c2-427f-9ea3-c229e3eea0ea",
+	"SLKTHN_Personal_Resolved":"12202555-bbeb-4055-aa45-d62e17ff49df",
+	"SLKTHN_Personal_Queue_CA":"877f9795-5457-46bd-b0df-0443f777da28",
+	"SLKTHN_Personal_Premium":"dfbcebe3-8f2d-4454-9967-7b5d6f397909",
+	"SLKTHN_GlobalQueue_Premium":"094c27c1-8dd6-468a-a582-364181b1b60d",
+	"SLKTHN_GlobalIncidentQueue":"0b98284b-8270-4955-8149-03426f750940",
+	"SLKTHN_GlobalIncident_Urgent":"5c0e4bce-0ab1-4784-bc6f-29b0c1575de6",
+	"SLKTHN_FRMissing_Personal":"1e66f25e-2d00-48c9-b547-53f5de305cac",
+	"SLKTHN_FRBreached_Team":"3224eb3a-5287-463e-b39a-f0c799d8ea14",
+	"SLKTHN_ComBreach_Personal":"b1cc9710-9d59-483a-ab45-bc1b2a29854c",
+	"SLKTHN_Case_Details":"06287643-2182-4ed8-840f-f5c25846b1e7",
+	"SLKTHN_Aging_Team":"7604ae22-9832-4833-94a5-8cb34dd08cae",
+	"SLKTHN_Aging_Personal":"df162476-b144-456a-a834-b90b708a62ee",
+	"SLKTHN_Audit_Case":"d5e17a34-b466-4b39-86c9-7fd21454c1e7"
+}
